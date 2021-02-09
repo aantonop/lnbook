@@ -4,20 +4,20 @@
 
 Welcome to _Mastering the Lightning Network_!
 
-The Lightning Network is a protocol for using Bitcoin in a smart and non-obvious way.
+
+The Lightning Network, often abbreviated as "LN", is changing the way people exchange value online and it's one of the most exciting advancements to happen in Bitcoin's history. The Lightning Network is a protocol for using Bitcoin in a smart and non-obvious way.
 It is a second layer technology on top of Bitcoin.
-The Lightning Network, often abbreviated as "LN", is changing the way people exchange value online and it's one of the most exciting advancements to happen in Bitcoin's history.
-Today, in 2020, the Lightning Network is still in its infancy.
-In concept it was first proposed in 2015 and the first implementation was launched in 2018.
-As of 2020, we're only beginning to see the opportunities the Lightning Network provides including improved privacy, speed, and scale.
+Today, in 2021, the Lightning Network is still in its infancy.
+The concept of LN was first proposed in 2015 and the first implementation was launched in 2018.
+As of 2021, we're only beginning to see the opportunities the Lightning Network provides including improved privacy, speed, and scale.
 With core knowledge of the Lightning Network, you can help shape the future of the network while also building opportunities for yourself.
-Some basic knowledge about Bitcoin is assumed but can be readily acquired by reading _Mastering Bitcoin_, available for free online. We also cover the most important Bitcoin concepts, you need must know to study the Lightning Network, in <<bitcoin_fundamentals>>.
+We assume you have some basic knowledge about Bitcoin but we do explain the most important Bitcoin concepts, the ones you must know to study the Lightning Network, in <<bitcoin_fundamentals>>. If you want to learn more about Bitcoin, start by reading _Mastering Bitcoin_, available online.
 
 While the bulk of this book is written for programmers, the first few chapters are written to be approachable by anyone regardless of technical experience.
 
 === Trust in decentralized networks
 
-You will often hear people calling Bitcoin and the Lightning Network "trustless". At first glance this is confusing. After all, isn't trust a good thing? Banks even use it in their names! Isn't a "trustless" system a system devoid of trust a bad thing?
+You will often hear people calling Bitcoin and the Lightning Network "trustless". At first glance this is confusing. After all, isn't trust a good thing? Banks even use it in their names! Isn't a "trustless" system a bad thing?
 
 The use of the the word "trustless" is intended to convey the ability to operate without _needing_ trust in the other participants in the system. In a decentralized system like Bitcoin you can always choose to transact with someone you trust. However, the system ensures you can't be cheated even if you can't trust the other party in a transaction. Trust is a nice-to-have instead of a must-have property of the system.
 
